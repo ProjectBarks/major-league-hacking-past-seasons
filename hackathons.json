@@ -1,7 +1,7 @@
 [
   {
-    "season": "2013",
-    "year": "Fall",
+    "year": "2013",
+    "season": "Fall",
     "events": [
       {
         "name": "MHacks",
@@ -18,8 +18,8 @@
     ]
   },
   {
-    "season": "2014",
-    "year": "Spring",
+    "year": "2014",
+    "season": "Spring",
     "events": [
       {
         "name": "MHacks",
@@ -480,8 +480,8 @@
     ]
   },
     {
-    "season": "2014",
-    "year": "Fall",
+    "year": "2014",
+    "season": "Fall",
     "events": [
       {
         "name": "GeauxHack",
@@ -918,8 +918,8 @@
     ]
   },
   {
-    "season": "2015",
-    "year": "Spring",
+    "year": "2015",
+    "season": "Spring",
     "events": [
       {
         "name": "Dragon Hacks",
@@ -1644,8 +1644,8 @@
     ]
   },
   {
-    "season": "2015",
-    "year": "Fall",
+    "year": "2015",
+    "season": "Fall",
     "events": [
       {
         "name": "TunaHack",
@@ -2274,8 +2274,8 @@
     ]
   },
   {
-    "season": "2016",
-    "year": "Spring",
+    "year": "2016",
+    "season": "Spring",
     "events": [
       {
         "name": "HackRice",
@@ -3372,8 +3372,8 @@
     ]
   },
   {
-    "season": "2017",
-    "year": "North America",
+    "year": "2017",
+    "season": "North America",
     "events": [
       {
         "name": "HackMTY",
@@ -5670,8 +5670,8 @@
     ]
   },
   {
-    "season": "2017",
-    "year": "Europe",
+    "year": "2017",
+    "season": "Europe",
     "events": [
       {
         "name": "HackUPC",
@@ -6228,8 +6228,8 @@
     ]
   },
   {
-    "season": "2018",
-    "year": "North America",
+    "year": "2018",
+    "season": "North America",
     "events": [
       {
         "name": "Local Hack Day",
@@ -8106,8 +8106,8 @@
     ]
   },
   {
-    "season": "2018",
-    "year": "Europe",
+    "year": "2018",
+    "season": "Europe",
     "events": [
       {
         "name": "Local Hack Day",
@@ -8472,6 +8472,2658 @@
     ]
   },
   {
+    "year": "2019",
+    "season": "North America",
+    "events": [
+      {
+        "name": "Hack the 6ix 2018",
+        "url": "http://hackthe6ix.com/",
+        "date": {
+          "start": "2018-08-24T00:00:00.000Z",
+          "end": "2018-08-26T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Toronto",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "HackMTY",
+        "url": "http://hackmty.com/",
+        "date": {
+          "start": "2018-08-25T00:00:00.000Z",
+          "end": "2018-08-26T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Monterrey",
+          "state": "MX"
+        }
+      },
+      {
+        "name": "ByteHacks",
+        "url": "http://bytehacks.org/",
+        "date": {
+          "start": "2018-09-01T00:00:00.000Z",
+          "end": "2018-09-02T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New York",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "MedHacks",
+        "url": "http://medhacks.org/2018",
+        "date": {
+          "start": "2018-09-07T00:00:00.000Z",
+          "end": "2018-09-09T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Baltimore",
+          "state": "MD"
+        }
+      },
+      {
+        "name": "MXHacks",
+        "url": "https://mxhacks.io/",
+        "date": {
+          "start": "2018-09-07T00:00:00.000Z",
+          "end": "2018-09-09T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Mexico City",
+          "state": "MX"
+        }
+      },
+      {
+        "name": "PennApps",
+        "url": "http://2018f.pennapps.com/",
+        "date": {
+          "start": "2018-09-07T00:00:00.000Z",
+          "end": "2018-09-09T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "HackTheU",
+        "url": "http://hacktheu.com/",
+        "date": {
+          "start": "2018-09-08T00:00:00.000Z",
+          "end": "2018-09-09T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Salt Lake City",
+          "state": "UT"
+        }
+      },
+      {
+        "name": "HackRice 8",
+        "url": "http://hack.rice.edu/",
+        "date": {
+          "start": "2018-09-14T00:00:00.000Z",
+          "end": "2018-09-16T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Houston",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "Hack the North",
+        "url": "https://hackthenorth.com/",
+        "date": {
+          "start": "2018-09-14T00:00:00.000Z",
+          "end": "2018-09-16T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Waterloo",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "SBU Hacks",
+        "url": "http://sbuhacks.org/",
+        "date": {
+          "start": "2018-09-14T00:00:00.000Z",
+          "end": "2018-09-15T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Stony Brook",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "ShellHacks",
+        "url": "https://shellhacks.net/",
+        "date": {
+          "start": "2018-09-14T00:00:00.000Z",
+          "end": "2018-09-16T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Miami",
+          "state": "FL"
+        }
+      },
+      {
+        "name": "Hophacks",
+        "url": "http://hophacks.com/",
+        "date": {
+          "start": "2018-09-15T00:00:00.000Z",
+          "end": "2018-09-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Baltimore",
+          "state": "MD"
+        }
+      },
+      {
+        "name": "Lumohacks",
+        "url": "http://lumohacks.com/",
+        "date": {
+          "start": "2018-09-15T00:00:00.000Z",
+          "end": "2018-09-16T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Burnaby",
+          "state": "BC"
+        }
+      },
+      {
+        "name": "BASEHacks 3.0",
+        "url": "http://www.basehacks.org/",
+        "date": {
+          "start": "2018-09-22T00:00:00.000Z",
+          "end": "2018-09-23T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Fremont",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "GrizzHacks",
+        "url": "http://grizzhacks.com/",
+        "date": {
+          "start": "2018-09-22T00:00:00.000Z",
+          "end": "2018-09-23T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Rochester",
+          "state": "MI"
+        }
+      },
+      {
+        "name": "Ram Hacks",
+        "url": "http://ramhacks.vcu.edu/",
+        "date": {
+          "start": "2018-09-22T00:00:00.000Z",
+          "end": "2018-09-23T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Richmond",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "Volhacks",
+        "url": "https://volhacks.org/",
+        "date": {
+          "start": "2018-09-28T00:00:00.000Z",
+          "end": "2018-09-30T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Knoxville",
+          "state": "TN"
+        }
+      },
+      {
+        "name": "HackNY",
+        "url": "http://hackny.org/hackathon/",
+        "date": {
+          "start": "2018-09-29T00:00:00.000Z",
+          "end": "2018-09-30T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New York",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "Mining hack",
+        "url": "http://mininghack.tech/",
+        "date": {
+          "start": "2018-09-29T00:00:00.000Z",
+          "end": "2018-09-30T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Torreón",
+          "state": "MX"
+        }
+      },
+      {
+        "name": "HackGSU",
+        "url": "http://hackgsu.com/",
+        "date": {
+          "start": "2018-10-05T00:00:00.000Z",
+          "end": "2018-10-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Atlanta",
+          "state": "GA"
+        }
+      },
+      {
+        "name": "HackNC",
+        "url": "http://hacknc.com",
+        "date": {
+          "start": "2018-10-05T00:00:00.000Z",
+          "end": "2018-10-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Chapel Hill",
+          "state": "NC"
+        }
+      },
+      {
+        "name": "Hack This. Help Kids.",
+        "url": "http://hackthishelpkids.com",
+        "date": {
+          "start": "2018-10-05T00:00:00.000Z",
+          "end": "2018-10-06T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Pittsburgh",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "HackPSU",
+        "url": "https://hackpsu.org/",
+        "date": {
+          "start": "2018-10-06T00:00:00.000Z",
+          "end": "2018-10-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "State College",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "HackRU",
+        "url": "https://www.hackru.org/",
+        "date": {
+          "start": "2018-10-06T00:00:00.000Z",
+          "end": "2018-10-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New Brunswick",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "HackUIowa",
+        "url": "http://bigdata.uiowa.edu/",
+        "date": {
+          "start": "2018-10-06T00:00:00.000Z",
+          "end": "2018-10-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Iowa City",
+          "state": "IA"
+        }
+      },
+      {
+        "name": "HackUTA",
+        "url": "http://hackuta.com",
+        "date": {
+          "start": "2018-10-06T00:00:00.000Z",
+          "end": "2018-10-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Arlington",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "HAkron 3000",
+        "url": "http://www.hakron.io/",
+        "date": {
+          "start": "2018-10-06T00:00:00.000Z",
+          "end": "2018-10-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Akron",
+          "state": "OH"
+        }
+      },
+      {
+        "name": "HackCooper",
+        "url": "http://hackcooper.org/",
+        "date": {
+          "start": "2018-10-12T00:00:00.000Z",
+          "end": "2018-10-13T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New York",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "HackUMass  ",
+        "url": "https://hackumass.com/",
+        "date": {
+          "start": "2018-10-12T00:00:00.000Z",
+          "end": "2018-10-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Amherst",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "MHacks",
+        "url": "https://mhacks.org/",
+        "date": {
+          "start": "2018-10-12T00:00:00.000Z",
+          "end": "2018-10-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Ann Arbor",
+          "state": "MI"
+        }
+      },
+      {
+        "name": "PatriotHacks",
+        "url": "http://patriothacks.org/",
+        "date": {
+          "start": "2018-10-12T00:00:00.000Z",
+          "end": "2018-10-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Fairfax",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "SD Hacks",
+        "url": "http://www.sdhacks.io/",
+        "date": {
+          "start": "2018-10-12T00:00:00.000Z",
+          "end": "2018-10-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "La Jolla",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "TigerHacks",
+        "url": "http://tigerhacks.missouri.edu/",
+        "date": {
+          "start": "2018-10-12T00:00:00.000Z",
+          "end": "2018-10-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Columbia",
+          "state": "MO"
+        }
+      },
+      {
+        "name": "EastHacks",
+        "url": "https://www.easthacks.us/",
+        "date": {
+          "start": "2018-10-13T00:00:00.000Z",
+          "end": "2018-10-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Cherry Hill",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "HackDuke",
+        "url": "http://hackduke.org/",
+        "date": {
+          "start": "2018-10-13T00:00:00.000Z",
+          "end": "2018-10-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Durham",
+          "state": "NC"
+        }
+      },
+      {
+        "name": "BigRed//Hacks",
+        "url": "http://bigredhacks.com/",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Ithaca",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "BoilerMake",
+        "url": "http://boilermake.org",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "West Lafayette",
+          "state": "IN"
+        }
+      },
+      {
+        "name": "HackGT",
+        "url": "https://2018.hack.gt/",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Atlanta",
+          "state": "GA"
+        }
+      },
+      {
+        "name": "HackHarvard College",
+        "url": "http://hackharvard.io/",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Cambridge",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "HackISU",
+        "url": "http://hackisu.org/",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Ames",
+          "state": "IA"
+        }
+      },
+      {
+        "name": "Hack KState",
+        "url": "https://hackkstate.tech/",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Manhattan",
+          "state": "KS"
+        }
+      },
+      {
+        "name": " Kent Hack Enough ",
+        "url": "http://khe.io/",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Kent",
+          "state": "OH"
+        }
+      },
+      {
+        "name": "DemonHacks",
+        "url": "http://demonhacks.com/",
+        "date": {
+          "start": "2018-10-20T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Chicago",
+          "state": "IL"
+        }
+      },
+      {
+        "name": "DubHacks",
+        "url": "http://dubhacks.co/",
+        "date": {
+          "start": "2018-10-20T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Seattle",
+          "state": "WA"
+        }
+      },
+      {
+        "name": "HackTX",
+        "url": "http://hacktx.com/",
+        "date": {
+          "start": "2018-10-20T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Austin",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "HackUMBC",
+        "url": "http://hackumbc.org/",
+        "date": {
+          "start": "2018-10-20T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Baltimore",
+          "state": "MD"
+        }
+      },
+      {
+        "name": "HyphenHacks",
+        "url": "https://hyphen-hacks.com/",
+        "date": {
+          "start": "2018-10-20T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "San Francisco",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Power the Future",
+        "url": "http://powerthefuture.energy/",
+        "date": {
+          "start": "2018-10-20T00:00:00.000Z",
+          "end": "2018-10-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Richmond",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "Cal Hacks 5.0  ",
+        "url": "https://2018.calhacks.io/",
+        "date": {
+          "start": "2018-11-02T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Berkeley",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Electric City Hacks   ",
+        "url": "http://echacks.com/",
+        "date": {
+          "start": "2018-11-02T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Peterborough",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "HackHolyoke",
+        "url": "http://hackholyoke.com/",
+        "date": {
+          "start": "2018-11-02T00:00:00.000Z",
+          "end": "2018-11-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "South Hadley",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "VandyHacks",
+        "url": "https://vandyhacks.org/",
+        "date": {
+          "start": "2018-11-02T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Nashville",
+          "state": "TN"
+        }
+      },
+      {
+        "name": "WHACK (Wellesley Hacks)    ",
+        "url": "http://wellesleyhacks.org",
+        "date": {
+          "start": "2018-11-02T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Wellesley",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "CodeRED Discovery",
+        "url": "https://uhcode.red/",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Houston",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "HackBI II",
+        "url": "http://hackbi.org/",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Alexandria",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "HackNJIT",
+        "url": "http://www.hacknjit.org/",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Newark",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "hackPHS",
+        "url": "http://hackphs.tech/",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Princeton",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "HealthHacks",
+        "url": "https://healthhacks.vcu.edu/",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Richmond",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "UB Hacking",
+        "url": "http://ubhacking.com",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Amherst",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "HackPrinceton",
+        "url": "https://hackprinceton.com/",
+        "date": {
+          "start": "2018-11-09T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Princeton",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "sunhacks",
+        "url": "http://sunhacks.io/",
+        "date": {
+          "start": "2018-11-09T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Phoenix / Tempe",
+          "state": "AZ"
+        }
+      },
+      {
+        "name": "BostonHacks",
+        "url": "http://bostonhacks.io/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Boston",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "Codestellation",
+        "url": "http://www.codestellation.io/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Waltham",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "HackMCST",
+        "url": "http://hackmcst.tech/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Denville",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "HackWITUs",
+        "url": "https://hackwit.us/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Boston",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "MadHacks",
+        "url": "https://www.madhacks.io/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Madison",
+          "state": "WI"
+        }
+      },
+      {
+        "name": "Technica",
+        "url": "https://gotechnica.org/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "College Park",
+          "state": "MD"
+        }
+      },
+      {
+        "name": "HackUSU",
+        "url": "http://hackusu.org",
+        "date": {
+          "start": "2018-11-16T00:00:00.000Z",
+          "end": "2018-11-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Logan",
+          "state": "UT"
+        }
+      },
+      {
+        "name": "Lehman Hack50",
+        "url": "https://nslehman.github.io/nshackathon/",
+        "date": {
+          "start": "2018-11-16T00:00:00.000Z",
+          "end": "2018-11-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Bronx",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "BlocHacks",
+        "url": "http://www.blochacks.com/",
+        "date": {
+          "start": "2018-11-17T00:00:00.000Z",
+          "end": "2018-11-18T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Montreal",
+          "state": "QC"
+        }
+      },
+      {
+        "name": "SacHacks",
+        "url": "http://sachacks.io/",
+        "date": {
+          "start": "2018-11-17T00:00:00.000Z",
+          "end": "2018-11-18T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Sacramento",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Hack Western V",
+        "url": "https://hackwestern.com/",
+        "date": {
+          "start": "2018-11-23T00:00:00.000Z",
+          "end": "2018-11-25T00:00:00.000Z"
+        },
+        "location": {
+          "city": "London",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "YHack",
+        "url": "https://www.yhack.org/",
+        "date": {
+          "start": "2018-11-30T00:00:00.000Z",
+          "end": "2018-12-02T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New Haven",
+          "state": "CT"
+        }
+      },
+      {
+        "name": "Local Hack Day",
+        "url": "https://localhackday.mlh.io",
+        "date": {
+          "start": "2018-12-01T00:00:00.000Z",
+          "end": "2018-12-01T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Everywhere",
+          "state": "Worldwide"
+        }
+      },
+      {
+        "name": "Urban Hacks    ",
+        "url": "https://hackthehammer.com/",
+        "date": {
+          "start": "2018-12-08T00:00:00.000Z",
+          "end": "2018-12-09T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Hamilton",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "SB Hacks",
+        "url": "https://sbhacks.com",
+        "date": {
+          "start": "2019-01-11T00:00:00.000Z",
+          "end": "2019-01-13T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Santa Barbara",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "StarterHacks 2019",
+        "url": "https://starterhacks.ca/",
+        "date": {
+          "start": "2019-01-12T00:00:00.000Z",
+          "end": "2019-01-13T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Waterloo",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "CruzHacks 2019",
+        "url": "https://www.cruzhacks.com/",
+        "date": {
+          "start": "2019-01-18T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Santa Cruz",
+          "state": "CA"
+        }
+      },
+      {
+        "name": " HACK@WPI    ",
+        "url": "http://hack.wpi.edu/",
+        "date": {
+          "start": "2019-01-18T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Worcester",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "SpartaHack V",
+        "url": "https://spartahack.com/",
+        "date": {
+          "start": "2019-01-18T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "East Lansing",
+          "state": "MI"
+        }
+      },
+      {
+        "name": "SwampHacks",
+        "url": "https://2019.swamphacks.com/",
+        "date": {
+          "start": "2019-01-18T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Gainesville",
+          "state": "FL"
+        }
+      },
+      {
+        "name": "UofTHacks",
+        "url": "https://uofthacks.com/",
+        "date": {
+          "start": "2019-01-18T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Toronto",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "Hackatown",
+        "url": "https://hackatown.io",
+        "date": {
+          "start": "2019-01-19T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Montreal",
+          "state": "QC"
+        }
+      },
+      {
+        "name": "HackED",
+        "url": "https://hacked.compeclub.com/",
+        "date": {
+          "start": "2019-01-19T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Edmonton",
+          "state": "AB"
+        }
+      },
+      {
+        "name": "HackFRee",
+        "url": "http://hackfree.info",
+        "date": {
+          "start": "2019-01-19T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Manalapan",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "Rose Hack    ",
+        "url": "https://rosehack.com/",
+        "date": {
+          "start": "2019-01-19T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Riverside",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "<womxn/hacks>  ",
+        "url": "https://www.womxnhacks.com/",
+        "date": {
+          "start": "2019-01-25T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Santa Barbara",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "ConUHacks IV  ",
+        "url": "https://conuhacks.io/#/",
+        "date": {
+          "start": "2019-01-26T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Montreal",
+          "state": "QC"
+        }
+      },
+      {
+        "name": "CUhackit",
+        "url": "http://cuhack.it/",
+        "date": {
+          "start": "2019-01-26T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Clemson",
+          "state": "SC"
+        }
+      },
+      {
+        "name": "DeltaHacks",
+        "url": "https://www.deltahacks.com/",
+        "date": {
+          "start": "2019-01-26T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Hamilton",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "EarthHacks",
+        "url": "https://earthhacks.vcu.edu/",
+        "date": {
+          "start": "2019-01-26T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Richmond",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "nwHacks",
+        "url": "http://nwhacks.io",
+        "date": {
+          "start": "2019-01-26T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Vancouver",
+          "state": "BC"
+        }
+      },
+      {
+        "name": "TAMUhack",
+        "url": "https://tamuhack.com/",
+        "date": {
+          "start": "2019-01-26T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "College Station",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "ElleHacks",
+        "url": "https://ellehacks.com/",
+        "date": {
+          "start": "2019-02-01T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Toronto",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "Hoya Hacks ",
+        "url": "http://www.hoyahacks.com/",
+        "date": {
+          "start": "2019-02-01T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Washington",
+          "state": "DC"
+        }
+      },
+      {
+        "name": "MangoHacks",
+        "url": "https://mangohacks.com/",
+        "date": {
+          "start": "2019-02-01T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Miami",
+          "state": "FL"
+        }
+      },
+      {
+        "name": "QHacks",
+        "url": "https://qhacks.io/",
+        "date": {
+          "start": "2019-02-01T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Kingston",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "SLO Hacks",
+        "url": "https://www.slohacks.com/",
+        "date": {
+          "start": "2019-02-01T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "San Luis Obispo",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "AuburnHacks",
+        "url": "https://auburnhacks.com/",
+        "date": {
+          "start": "2019-02-02T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Auburn",
+          "state": "AL"
+        }
+      },
+      {
+        "name": "MakeHarvard",
+        "url": "http://makeharvard.io/",
+        "date": {
+          "start": "2019-02-02T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Cambridge",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "McHacks 6",
+        "url": "https://mchacks.ca",
+        "date": {
+          "start": "2019-02-02T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Montreal",
+          "state": "QC"
+        }
+      },
+      {
+        "name": "MinneHack",
+        "url": "https://minnehack.io/",
+        "date": {
+          "start": "2019-02-02T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Minneapolis",
+          "state": "MN"
+        }
+      },
+      {
+        "name": "PennApps",
+        "url": "http://2019w.pennapps.com/",
+        "date": {
+          "start": "2019-02-02T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "CalvinHacks",
+        "url": "https://calvinhacks.com/",
+        "date": {
+          "start": "2019-02-08T00:00:00.000Z",
+          "end": "2019-02-09T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Grand Rapids",
+          "state": "MI"
+        }
+      },
+      {
+        "name": "Hack KU  ",
+        "url": "https://hackku.org/",
+        "date": {
+          "start": "2019-02-08T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Lawrence",
+          "state": "KS"
+        }
+      },
+      {
+        "name": "Sheridan Hackville   ",
+        "url": "https://www.hackville.io/",
+        "date": {
+          "start": "2019-02-08T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Oakville",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "UGAHacks 4  ",
+        "url": "https://ugahacks.com/",
+        "date": {
+          "start": "2019-02-08T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Athens",
+          "state": "GA"
+        }
+      },
+      {
+        "name": "HackDavis",
+        "url": "https://www.hackdavis.io/",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Davis",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "HackHer413",
+        "url": "http://www.hackher413.com",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Amherst",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "Hacklahoma",
+        "url": "https://hacklahoma.org/",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Norman",
+          "state": "OK"
+        }
+      },
+      {
+        "name": "HackRiddle",
+        "url": "http://hackriddle.com/",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Daytona Beach",
+          "state": "FL"
+        }
+      },
+      {
+        "name": "uOttaHack",
+        "url": "https://2019.uottahack.ca/",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Ottawa",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "XdHacks",
+        "url": "https://xdhacks.com/",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Vancouver",
+          "state": "BC"
+        }
+      },
+      {
+        "name": "Hack@CEWIT 2019",
+        "url": "https://www.cewit.org/programs/events/hack.php",
+        "date": {
+          "start": "2019-02-15T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Stony Brook",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "HackCWRU 6",
+        "url": "http://hack.cwru.edu/",
+        "date": {
+          "start": "2019-02-15T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Cleveland",
+          "state": "OH"
+        }
+      },
+      {
+        "name": "HackNYU",
+        "url": "https://hacknyu.org",
+        "date": {
+          "start": "2019-02-15T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New York",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "HopHacks",
+        "url": "https://hophacks.com/",
+        "date": {
+          "start": "2019-02-15T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Baltimore",
+          "state": "MD"
+        }
+      },
+      {
+        "name": "TreeHacks",
+        "url": "https://www.treehacks.com/",
+        "date": {
+          "start": "2019-02-15T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Stanford",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "VT Hacks VI",
+        "url": "https://vthacks.com/",
+        "date": {
+          "start": "2019-02-15T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Blacksburg",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "BrickHack",
+        "url": "http://brickhack.io",
+        "date": {
+          "start": "2019-02-16T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Rochester",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "cuHacking",
+        "url": "https://cuhacking.com/",
+        "date": {
+          "start": "2019-02-16T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Ottawa",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "HackHERS",
+        "url": "https://ruhackhers.org/",
+        "date": {
+          "start": "2019-02-16T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New Brunswick",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "MakeUofT",
+        "url": "https://ieee.utoronto.ca/makeuoft/",
+        "date": {
+          "start": "2019-02-16T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Toronto",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "Pearl Hacks",
+        "url": "http://pearlhacks.com",
+        "date": {
+          "start": "2019-02-16T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Chapel Hill",
+          "state": "NC"
+        }
+      },
+      {
+        "name": "Uncommon Hacks ",
+        "url": "https://uncommonhacks.com/",
+        "date": {
+          "start": "2019-02-16T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Chicago",
+          "state": "IL"
+        }
+      },
+      {
+        "name": "Hack the Valley III",
+        "url": "https://hackthevalley.io/",
+        "date": {
+          "start": "2019-02-22T00:00:00.000Z",
+          "end": "2019-02-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Scarborough",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "CrimsonCode",
+        "url": "http://hackathon.eecs.wsu.edu/",
+        "date": {
+          "start": "2019-02-23T00:00:00.000Z",
+          "end": "2019-02-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Pullman",
+          "state": "WA"
+        }
+      },
+      {
+        "name": "HackCU",
+        "url": "https://hackcu.org/",
+        "date": {
+          "start": "2019-02-23T00:00:00.000Z",
+          "end": "2019-02-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Boulder",
+          "state": "CO"
+        }
+      },
+      {
+        "name": "HackTCNJ",
+        "url": "https://hacktcnj.com/",
+        "date": {
+          "start": "2019-02-23T00:00:00.000Z",
+          "end": "2019-02-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Ewing",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "HackUTD",
+        "url": "https://www.hackutd.co/",
+        "date": {
+          "start": "2019-02-23T00:00:00.000Z",
+          "end": "2019-02-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Richardson",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "Hack DHI",
+        "url": "https://hackdhi.com/",
+        "date": {
+          "start": "2019-03-01T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Dolores Hidalgo C.I.N",
+          "state": "MX"
+        }
+      },
+      {
+        "name": "HackMerced",
+        "url": "http://hackmerced.io/",
+        "date": {
+          "start": "2019-03-01T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Merced",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Hacktech",
+        "url": "http://hacktech.io",
+        "date": {
+          "start": "2019-03-01T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Pasadena",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Knight Hacks",
+        "url": "https://knighthacks.org/",
+        "date": {
+          "start": "2019-03-01T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Orlando",
+          "state": "FL"
+        }
+      },
+      {
+        "name": "PickHacks",
+        "url": "https://pickhacks.io/",
+        "date": {
+          "start": "2019-03-01T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Rolla",
+          "state": "MO"
+        }
+      },
+      {
+        "name": "Steelhacks",
+        "url": "http://steelhacks.com",
+        "date": {
+          "start": "2019-03-01T00:00:00.000Z",
+          "end": "2019-03-02T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Pittsburgh",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "HACK AE 2019",
+        "url": "https://theaeac.org/events/america-east-hackathon-hack-ae/",
+        "date": {
+          "start": "2019-03-02T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Orono",
+          "state": "ME"
+        }
+      },
+      {
+        "name": "HooHacks",
+        "url": "https://www.hoohacks.io/",
+        "date": {
+          "start": "2019-03-02T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Charlottesville",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "RevolutionUC",
+        "url": "https://revolutionuc.com/",
+        "date": {
+          "start": "2019-03-02T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Cincinnati",
+          "state": "OH"
+        }
+      },
+      {
+        "name": "SF Hacks 2019 ",
+        "url": "https://sfhacks.io/",
+        "date": {
+          "start": "2019-03-02T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "San Francisco",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "WiCHacks",
+        "url": "https://wichacks.io/",
+        "date": {
+          "start": "2019-03-02T00:00:00.000Z",
+          "end": "2019-03-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Rochester",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "cmdf",
+        "url": "http://cmd-f.nwplus.io/",
+        "date": {
+          "start": "2019-03-09T00:00:00.000Z",
+          "end": "2019-03-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Vancouver",
+          "state": "BC"
+        }
+      },
+      {
+        "name": "Hacklassonde",
+        "url": "http://hacklassonde.ca/",
+        "date": {
+          "start": "2019-03-09T00:00:00.000Z",
+          "end": "2019-03-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Toronto",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "HackRU",
+        "url": "https://hackru.org/",
+        "date": {
+          "start": "2019-03-09T00:00:00.000Z",
+          "end": "2019-03-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "New Brunswick",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "MenloHacks",
+        "url": "http://menlohacks.com",
+        "date": {
+          "start": "2019-03-09T00:00:00.000Z",
+          "end": "2019-03-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Atherton",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Profhacks",
+        "url": "https://profhacks.com/",
+        "date": {
+          "start": "2019-03-09T00:00:00.000Z",
+          "end": "2019-03-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Glassboro",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "HackPSU",
+        "url": "https://hackpsu.org/",
+        "date": {
+          "start": "2019-03-16T00:00:00.000Z",
+          "end": "2019-03-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "University Park",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "HackRPI",
+        "url": "https://hackrpi.com/",
+        "date": {
+          "start": "2019-03-16T00:00:00.000Z",
+          "end": "2019-03-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Troy",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "Cypher V   ",
+        "url": "http://cypher.cs.wm.edu/",
+        "date": {
+          "start": "2019-03-22T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Williamsburg",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "Hackital",
+        "url": "http://hackital.io/",
+        "date": {
+          "start": "2019-03-22T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Washington",
+          "state": "DC"
+        }
+      },
+      {
+        "name": "TechTogether Boston  ",
+        "url": "https://boston.techtogether.io/",
+        "date": {
+          "start": "2019-03-22T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Boston",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "CrimsonHacks",
+        "url": "https://www.crimsonhacks.com/",
+        "date": {
+          "start": "2019-03-23T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Tuscaloosa",
+          "state": "AL"
+        }
+      },
+      {
+        "name": "Hackabull",
+        "url": "https://hackabull.io/",
+        "date": {
+          "start": "2019-03-23T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Tampa",
+          "state": "FL"
+        }
+      },
+      {
+        "name": "Los Altos Hacks   ",
+        "url": "https://www.losaltoshacks.com/",
+        "date": {
+          "start": "2019-03-23T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Sunnyvale",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "MasseyHacks",
+        "url": "https://masseyhacks.ca/",
+        "date": {
+          "start": "2019-03-23T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Windsor",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "HackGSU",
+        "url": "http://hackgsu.com/",
+        "date": {
+          "start": "2019-03-29T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Atlanta",
+          "state": "GA"
+        }
+      },
+      {
+        "name": "Hack Puebla",
+        "url": "http://ing.pue.itesm.mx/hackathon/",
+        "date": {
+          "start": "2019-03-29T00:00:00.000Z",
+          "end": "2019-03-30T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Puebla",
+          "state": "MX"
+        }
+      },
+      {
+        "name": "LA Hacks",
+        "url": "http://lahacks.com",
+        "date": {
+          "start": "2019-03-29T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "CatHacks",
+        "url": "http://cathacks.cs.uky.edu/",
+        "date": {
+          "start": "2019-03-30T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Lexington",
+          "state": "KY"
+        }
+      },
+      {
+        "name": "HackWCU",
+        "url": "https://hackwcu.org/",
+        "date": {
+          "start": "2019-03-30T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "West Chester",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "LingHacks II ",
+        "url": "http://linghacks.tech/linghacks-ii",
+        "date": {
+          "start": "2019-03-30T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Fremont",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "AthenaHacks",
+        "url": "http://www.athenahacks.com/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "HackDartmouth",
+        "url": "http://hackdartmouth.io/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Hanover",
+          "state": "NH"
+        }
+      },
+      {
+        "name": "hackMHS",
+        "url": "http://hackmhs.com/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Millburn",
+          "state": "NJ"
+        }
+      },
+      {
+        "name": "HackTJ",
+        "url": "https://hacktj.org/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Alexandria",
+          "state": "VA"
+        }
+      },
+      {
+        "name": "HackUNT",
+        "url": "https://unthackathon.com/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Denton",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "HackXX",
+        "url": "https://www.hackxx.io/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "San Diego",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "HatterHacks",
+        "url": "http://greatercentralfloridatechfaire.com/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "DeLand",
+          "state": "FL"
+        }
+      },
+      {
+        "name": "Minerva Hackathon",
+        "url": "https://minervahacks.com",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "San Francisco",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Bitcamp",
+        "url": "https://bit.camp/",
+        "date": {
+          "start": "2019-04-12T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "College Park",
+          "state": "MD"
+        }
+      },
+      {
+        "name": "HackSC",
+        "url": "https://hacksc.com/",
+        "date": {
+          "start": "2019-04-12T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "Def Hacks Seattle 2019",
+        "url": "http://defhacks.io/hackathons/seattle.html",
+        "date": {
+          "start": "2019-04-13T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Redmond",
+          "state": "WA"
+        }
+      },
+      {
+        "name": "HackHouston",
+        "url": "http://hackhouston.io/",
+        "date": {
+          "start": "2019-04-13T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Houston",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "Hack the Heights   ",
+        "url": "http://hacktheheights.com/",
+        "date": {
+          "start": "2019-04-13T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Chestnut Hill",
+          "state": "MA"
+        }
+      },
+      {
+        "name": "KleinHacks",
+        "url": "https://kleinhacks.com/",
+        "date": {
+          "start": "2019-04-13T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Spring",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "PackHacks",
+        "url": "http://www.ncsupackhacks.org/",
+        "date": {
+          "start": "2019-04-13T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Raleigh",
+          "state": "NC"
+        }
+      },
+      {
+        "name": "RowdyHacks",
+        "url": "https://www.rowdyhacks.org/",
+        "date": {
+          "start": "2019-04-13T00:00:00.000Z",
+          "end": "2019-04-14T00:00:00.000Z"
+        },
+        "location": {
+          "city": "San Antonio",
+          "state": "TX"
+        }
+      },
+      {
+        "name": "BeachHacks",
+        "url": "https://www.beachhacks.com/",
+        "date": {
+          "start": "2019-04-20T00:00:00.000Z",
+          "end": "2019-04-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Long Beach",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "DragonHacks 2019",
+        "url": "http://dragonhacks.io/",
+        "date": {
+          "start": "2019-04-20T00:00:00.000Z",
+          "end": "2019-04-21T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA"
+        }
+      },
+      {
+        "name": "Citrus Hack",
+        "url": "https://www.citrushack.com/",
+        "date": {
+          "start": "2019-04-26T00:00:00.000Z",
+          "end": "2019-04-28T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Riverside",
+          "state": "CA"
+        }
+      },
+      {
+        "name": "PoliHacks",
+        "url": "http://polihacks.com/",
+        "date": {
+          "start": "2019-05-03T00:00:00.000Z",
+          "end": "2019-05-05T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Mexico City",
+          "state": "MX"
+        }
+      },
+      {
+        "name": "PC Hacks  ",
+        "url": "http://pchacks.ca/",
+        "date": {
+          "start": "2019-05-04T00:00:00.000Z",
+          "end": "2019-05-05T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Mississauga",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "RU Hacks 2019",
+        "url": "https://2019.ruhacks.com/",
+        "date": {
+          "start": "2019-05-17T00:00:00.000Z",
+          "end": "2019-05-19T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Toronto",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "TeenHacks LI",
+        "url": "https://teenhacksli.com/",
+        "date": {
+          "start": "2019-05-25T00:00:00.000Z",
+          "end": "2019-05-26T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Old Westbury",
+          "state": "NY"
+        }
+      },
+      {
+        "name": "uwEnergyHacks",
+        "url": "https://uwen.ca/hacks",
+        "date": {
+          "start": "2019-06-01T00:00:00.000Z",
+          "end": "2019-06-02T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Waterloo",
+          "state": "ON"
+        }
+      },
+      {
+        "name": "EngHack",
+        "url": "https://enghack.com/",
+        "date": {
+          "start": "2019-06-21T00:00:00.000Z",
+          "end": "2019-06-23T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Waterloo",
+          "state": "ON"
+        }
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "season": "Europe",
+    "events": [
+      {
+        "name": "JUNCTIONxBudapest",
+        "url": "http://budapest.hackjunction.com/",
+        "date": {
+          "start": "2018-10-19T00:00:00.000Z",
+          "end": "2018-10-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Budapest",
+          "state": "Hungary"
+        }
+      },
+      {
+        "name": "Hack.Moscow",
+        "url": "https://hack.moscow/",
+        "date": {
+          "start": "2018-10-26T00:00:00.000Z",
+          "end": "2018-10-28T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Moscow",
+          "state": "Russia"
+        }
+      },
+      {
+        "name": "HackSheffield",
+        "url": "http://hacksheffield.co",
+        "date": {
+          "start": "2018-10-27T00:00:00.000Z",
+          "end": "2018-10-28T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Sheffield",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "HackTheMidlands",
+        "url": "http://hackthemidlands.co.uk",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Birmingham",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "jacobsHack! 2018",
+        "url": "https://jacobshack.com/",
+        "date": {
+          "start": "2018-11-03T00:00:00.000Z",
+          "end": "2018-11-04T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Bremen",
+          "state": "Germany"
+        }
+      },
+      {
+        "name": "AstonHack",
+        "url": "https://astonhack.co.uk/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Birmingham",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "HackSussex",
+        "url": "https://hacksussex.co.uk/",
+        "date": {
+          "start": "2018-11-10T00:00:00.000Z",
+          "end": "2018-11-11T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Brighton",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "ExImpact",
+        "url": "http://exeterentrepreneurs.com/eximpact/",
+        "date": {
+          "start": "2018-11-16T00:00:00.000Z",
+          "end": "2018-11-18T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Exeter",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "DurHack",
+        "url": "http://durhack.com",
+        "date": {
+          "start": "2018-11-17T00:00:00.000Z",
+          "end": "2018-11-18T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Durham",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "Porticode 3.0",
+        "url": "https://www.porticode.org/",
+        "date": {
+          "start": "2018-11-17T00:00:00.000Z",
+          "end": "2018-11-18T00:00:00.000Z"
+        },
+        "location": {
+          "city": "London",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "Junction 2018",
+        "url": "https://hackjunction.com/",
+        "date": {
+          "start": "2018-11-23T00:00:00.000Z",
+          "end": "2018-11-25T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Espoo",
+          "state": "Finland"
+        }
+      },
+      {
+        "name": "HackNotts",
+        "url": "https://hacknotts.com/",
+        "date": {
+          "start": "2018-11-24T00:00:00.000Z",
+          "end": "2018-11-25T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Nottingham",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "OxfordHack",
+        "url": "http://www.oxfordhack.uk",
+        "date": {
+          "start": "2018-11-24T00:00:00.000Z",
+          "end": "2018-11-25T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Oxford",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "Local Hack Day",
+        "url": "https://localhackday.mlh.io/",
+        "date": {
+          "start": "2018-12-01T00:00:00.000Z",
+          "end": "2018-12-01T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Everywhere",
+          "state": "Worldwide"
+        }
+      },
+      {
+        "name": "Hack Cambridge 4D    ",
+        "url": "https://hackcambridge.com/",
+        "date": {
+          "start": "2019-01-19T00:00:00.000Z",
+          "end": "2019-01-20T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Cambridge",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "ManMetHacks",
+        "url": "https://manmethacks.com/",
+        "date": {
+          "start": "2019-01-26T00:00:00.000Z",
+          "end": "2019-01-27T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Manchester",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "Reboot Hack  ",
+        "url": "https://www.reboot.hi.is/",
+        "date": {
+          "start": "2019-02-02T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Reykjavík",
+          "state": "Iceland"
+        }
+      },
+      {
+        "name": "Royal Hackaway v2",
+        "url": "https://royalhackaway.com/hackaway2019",
+        "date": {
+          "start": "2019-02-02T00:00:00.000Z",
+          "end": "2019-02-03T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Egham",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "HackSurrey Mk2  ",
+        "url": "https://mk2.hacksurrey.uk/",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Guildford",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "Hack The South",
+        "url": "https://hackthesouth.co.uk/",
+        "date": {
+          "start": "2019-02-09T00:00:00.000Z",
+          "end": "2019-02-10T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Southampton",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "R.U. Hacking?",
+        "url": "https://www.ruhacking.me/",
+        "date": {
+          "start": "2019-02-16T00:00:00.000Z",
+          "end": "2019-02-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Reading",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "Hack The Burgh",
+        "url": "https://2019.hacktheburgh.com/",
+        "date": {
+          "start": "2019-03-16T00:00:00.000Z",
+          "end": "2019-03-17T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Edinburgh",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "{FMI Codes} Code for Automation",
+        "url": "https://fmicodes.fss.fmi.uni-sofia.bg/",
+        "date": {
+          "start": "2019-03-22T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Sofia",
+          "state": "Bulgaria"
+        }
+      },
+      {
+        "name": "HackBordeaux",
+        "url": "https://hackbordeaux.com",
+        "date": {
+          "start": "2019-03-23T00:00:00.000Z",
+          "end": "2019-03-24T00:00:00.000Z"
+        },
+        "location": {
+          "city": "HackBordeaux",
+          "state": "France"
+        }
+      },
+      {
+        "name": "//Slash Hackathon",
+        "url": "https://slash.berlin/",
+        "date": {
+          "start": "2019-03-29T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Berlin",
+          "state": "Germany"
+        }
+      },
+      {
+        "name": "Hack Kosice",
+        "url": "https://hackkosice.com/",
+        "date": {
+          "start": "2019-03-30T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Kosice",
+          "state": "Slovakia"
+        }
+      },
+      {
+        "name": "HackMed 2019  ",
+        "url": "http://hackmed.uk/",
+        "date": {
+          "start": "2019-03-30T00:00:00.000Z",
+          "end": "2019-03-31T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Sheffield",
+          "state": "United Kingdom"
+        }
+      },
+      {
+        "name": "AUHack",
+        "url": "https://auhack.org/",
+        "date": {
+          "start": "2019-04-05T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Aarhus",
+          "state": "Denmark"
+        }
+      },
+      {
+        "name": "Hack Winterthur",
+        "url": "https://www.hackwinterthur.ch/",
+        "date": {
+          "start": "2019-04-05T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Winterthur",
+          "state": "Switzerland"
+        }
+      },
+      {
+        "name": "CopenHacks",
+        "url": "https://copenhacks.com/",
+        "date": {
+          "start": "2019-04-06T00:00:00.000Z",
+          "end": "2019-04-07T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Kongens Lyngby",
+          "state": "Denmark"
+        }
+      },
+      {
+        "name": "HackDelft",
+        "url": "https://2019.hackdelft.nl/",
+        "date": {
+          "start": "2019-05-11T00:00:00.000Z",
+          "end": "2019-05-12T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Delft",
+          "state": "Netherlands"
+        }
+      },
+      {
+        "name": "UniHack",
+        "url": "https://unihack.eu/",
+        "date": {
+          "start": "2019-05-17T00:00:00.000Z",
+          "end": "2019-05-19T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Timişoara",
+          "state": " România"
+        }
+      },
+      {
+        "name": "DragonHack",
+        "url": "https://dragonhack.si/",
+        "date": {
+          "start": "2019-05-18T00:00:00.000Z",
+          "end": "2019-05-19T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Ljubljana",
+          "state": "Slovenia"
+        }
+      },
+      {
+        "name": "Hackaburg",
+        "url": "https://hackaburg.de/",
+        "date": {
+          "start": "2019-05-24T00:00:00.000Z",
+          "end": "2019-05-25T00:00:00.000Z"
+        },
+        "location": {
+          "city": "Regensburg",
+          "state": "Germany"
+        }
+      }
+    ]
+  },
+    {
     "season": "2019",
     "year": "North America",
     "events": [
