@@ -34,6 +34,7 @@ lines
 
 ## Seasons
 What hackathons are in this dataset?  
+
 | Season                                             | Region        | Start Date       | End Date         | Events |
 |----------------------------------------------------|---------------|------------------|------------------|--------|
 | [Fall 2013](https://mlh.io/seasons/f2013/events)   | North America | 6 September 2013 | 13 October 2013  | 5      |
